@@ -1,0 +1,391 @@
+element.style {
+}
+.styles-singlePageWrapper-eKDyt *, [class*=tooltip-tooltip][class*=tooltip-placement] *, [data-marker='popup-location/overlay'] [class*=popup-root] * {
+    font-family: var(--theme-font-family) !important;
+}
+.styles-module-theme-rOnN1 {
+    --theme-borderRadius-l: 12px;
+    --theme-borderRadius-m: 6px;
+    --theme-borderRadius-s: 2px;
+    --theme-borderRadius-xl: 20px;
+    --theme-borderRadius-xxl: 20px;
+    --theme-color-overlay: var(--theme-palette-black32);
+    --theme-component-avatar-backgroundColor-default: var(--theme-palette-blue500);
+    --theme-component-avatar-backgroundColor-iconType: var(--theme-palette-beige100);
+    --theme-component-avatar-color-default: var(--theme-palette-white);
+    --theme-component-button-presets-accent-backgroundColor-active: var(--theme-palette-green800);
+    --theme-component-button-presets-accent-backgroundColor-default: var(--theme-palette-green600);
+    --theme-component-button-presets-accent-backgroundColor-hover: var(--theme-palette-green700);
+    --theme-component-button-presets-default-backgroundColor-active: var(--theme-palette-beige200);
+    --theme-component-button-presets-default-backgroundColor-default: var(--theme-palette-beige50);
+    --theme-component-button-presets-default-backgroundColor-hover: var(--theme-palette-beige100);
+    --theme-component-button-presets-default-color-default: var(--theme-palette-black);
+    --theme-component-button-presets-default-color-disabled: var(--theme-palette-red300);
+    --theme-component-button-presets-defaultInverse-backgroundColor-active: var(--theme-palette-gray76);
+    --theme-component-button-presets-defaultInverse-backgroundColor-default: var(--theme-palette-gray68);
+    --theme-component-button-presets-defaultInverse-backgroundColor-disabled: var(--theme-palette-gray76);
+    --theme-component-button-presets-defaultInverse-backgroundColor-hover: var(--theme-palette-gray64);
+    --theme-component-button-presets-defaultInverse-color-default: var(--theme-palette-white);
+    --theme-component-button-presets-defaultInverse-color-disabled: var(--theme-palette-gray64);
+    --theme-component-button-presets-overlay-backgroundColor-active: var(--theme-palette-blue200);
+    --theme-component-button-presets-overlay-backgroundColor-disabled: var(--theme-palette-warmGray4);
+    --theme-component-button-presets-overlay-backgroundColor-hover: var(--theme-palette-warmGray2);
+    --theme-component-button-presets-overlay-color-disabled: var(--theme-palette-gray36);
+    --theme-component-button-presets-overlayActive-backgroundColor-active: var(--theme-palette-blue300);
+    --theme-component-button-presets-overlayActive-backgroundColor-default: var(--theme-palette-blue100);
+    --theme-component-button-presets-overlayActive-backgroundColor-disabled: var(--theme-palette-warmGray4);
+    --theme-component-button-presets-overlayActive-backgroundColor-hover: var(--theme-palette-blue200);
+    --theme-component-button-presets-overlayActive-color-default: var(--theme-palette-black);
+    --theme-component-button-presets-overlayActive-color-disabled: var(--theme-palette-gray36);
+    --theme-component-button-presets-overlayDanger-backgroundColor-disabled: var(--theme-palette-red400);
+    --theme-component-button-presets-overlayDanger-color-disabled: var(--theme-palette-red300);
+    --theme-component-button-presets-primary-backgroundColor-active: var(--theme-palette-blue700);
+    --theme-component-button-presets-primary-backgroundColor-default: var(--theme-palette-blue500);
+    --theme-component-button-presets-primary-backgroundColor-hover: var(--theme-palette-blue600);
+    --theme-component-button-presets-safeDeal-backgroundColor-active: var(--theme-palette-violet700);
+    --theme-component-button-presets-safeDeal-backgroundColor-default: var(--theme-palette-violet500);
+    --theme-component-button-presets-safeDeal-backgroundColor-hover: var(--theme-palette-violet600);
+    --theme-component-button-presets-safeDeal-color-default: var(--theme-palette-white);
+    --theme-component-button-presets-secondary-backgroundColor-active: var(--theme-palette-blue300);
+    --theme-component-button-presets-secondary-backgroundColor-default: var(--theme-palette-blue100);
+    --theme-component-button-presets-secondary-backgroundColor-hover: var(--theme-palette-blue200);
+    --theme-component-button-presets-secondary-color-default: var(--theme-palette-blue700);
+    --theme-component-button-presets-warning-backgroundColor-active: var(--theme-palette-yellow700);
+    --theme-component-button-presets-warning-backgroundColor-default: var(--theme-palette-yellow500);
+    --theme-component-button-presets-warning-backgroundColor-hover: var(--theme-palette-yellow600);
+    --theme-component-button-presets-warning-color-default: var(--theme-palette-black);
+Show all properties (666 more)
+}
+.styles-module-theme-kvanA.styles-module-theme-kvanA, .styles-module-theme-rOnN1 {
+    --theme-margin-normal-header-3xl-paragraph-m: var(--theme-gap-16);
+    --theme-margin-normal-header-3xl-paragraph-m-dense: var(--theme-gap-16);
+    --theme-margin-normal-header-l-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-header-m-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-header-xm-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-paragraph-l-dense-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-paragraph-l-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-paragraph-m-dense-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-paragraph-m-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-paragraph-s-dense-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-paragraph-s-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-paragraph-xs-header-xl: var(--theme-gap-32);
+}
+.styles-module-theme-_4Zlk, .styles-module-theme-rOnN1 {
+    --theme-borderRadius-10: 10px;
+    --theme-borderRadius-12: 12px;
+    --theme-borderRadius-16: 16px;
+    --theme-borderRadius-2: 2px;
+    --theme-borderRadius-20: 20px;
+    --theme-borderRadius-24: 24px;
+    --theme-borderRadius-28: 28px;
+    --theme-borderRadius-4: 4px;
+    --theme-borderRadius-6: 6px;
+    --theme-borderRadius-8: 8px;
+    --theme-boxShadow-default: 0px 1px 3px rgba(0, 0, 0, 0.05), 0px 4px 30px rgba(0, 0, 0, 0.1);
+    --theme-component-avatar-color-iconType: var(--theme-palette-black);
+    --theme-component-badge-size-l-fontSize: 15px;
+    --theme-component-badge-size-l-height: 28px;
+    --theme-component-badge-size-l-padding: 3px 10px 5px 9px;
+    --theme-component-badge-size-l-pointHeight: 11px;
+    --theme-component-badge-size-m-fontSize: 13px;
+    --theme-component-badge-size-m-height: 24px;
+    --theme-component-badge-size-m-padding: 0 8px;
+    --theme-component-badge-size-m-pointHeight: 9px;
+    --theme-component-badge-size-s-fontSize: 11px;
+    --theme-component-badge-size-s-height: 19px;
+    --theme-component-badge-size-s-padding: 0 6px;
+    --theme-component-badge-size-s-pointHeight: 7px;
+    --theme-component-badge-size-xs-fontSize: 11px;
+    --theme-component-badge-size-xs-height: 14px;
+    --theme-component-badge-size-xs-padding: 0 4px;
+    --theme-component-button-presets-accent-color-default: var(--theme-palette-white);
+    --theme-component-button-presets-overlay-backgroundColor-default: var(--theme-palette-white);
+    --theme-component-button-presets-overlay-color-default: var(--theme-palette-black);
+    --theme-component-button-presets-overlay-focusBoxShadow-defaultOverlay: var(--theme-focusBoxShadow-overlayPreset);
+    --theme-component-button-presets-overlayDanger-backgroundColor-active: var(--theme-palette-red400);
+    --theme-component-button-presets-overlayDanger-backgroundColor-default: var(--theme-palette-red400);
+    --theme-component-button-presets-overlayDanger-backgroundColor-hover: var(--theme-palette-red300);
+    --theme-component-button-presets-overlayDanger-color-default: var(--theme-palette-white);
+    --theme-component-button-presets-primary-color-default: var(--theme-palette-white);
+    --theme-component-button-size-l-icon-square-compensation: -2px;
+    --theme-component-button-size-l-text-padding-end: 4px;
+    --theme-component-button-size-l-text-padding-endWithIcon: 4px;
+    --theme-component-button-size-l-text-padding-start: 3px;
+    --theme-component-button-size-l-text-padding-startWithIcon: 4px;
+    --theme-component-button-size-m-icon-square-compensation: -2px;
+    --theme-component-button-size-m-padding: 0 17px 0 16px;
+    --theme-component-button-size-m-paddingWithIcon: 0 13px;
+    --theme-component-button-size-m-text-padding-end: 4px;
+    --theme-component-button-size-m-text-padding-endWithIcon: 4px;
+    --theme-component-button-size-m-text-padding-start: 3px;
+    --theme-component-button-size-m-text-padding-startWithIcon: 4px;
+    --theme-component-button-size-s-icon-square-compensation: -1px;
+    --theme-component-button-size-s-text-padding-end: 4px;
+Show all properties (672 more)
+}
+body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, tt, var, b, u, i, center, dl, dt, dd, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, embed {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align : baseline;
+}
+* {
+    outline-color: #0af;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.styles-module-theme-rOnN1 {
+    --theme-borderRadius-l: 12px;
+    --theme-borderRadius-m: 6px;
+    --theme-borderRadius-s: 2px;
+    --theme-borderRadius-xl: 20px;
+    --theme-borderRadius-xxl: 20px;
+    --theme-color-overlay: var(--theme-palette-black32);
+    --theme-component-avatar-backgroundColor-default: var(--theme-palette-blue500);
+    --theme-component-avatar-backgroundColor-iconType: var(--theme-palette-beige100);
+    --theme-component-avatar-color-default: var(--theme-palette-white);
+    --theme-component-button-presets-accent-backgroundColor-active: var(--theme-palette-green800);
+    --theme-component-button-presets-accent-backgroundColor-default: var(--theme-palette-green600);
+    --theme-component-button-presets-accent-backgroundColor-hover: var(--theme-palette-green700);
+    --theme-component-button-presets-default-backgroundColor-active: var(--theme-palette-beige200);
+    --theme-component-button-presets-default-backgroundColor-default: var(--theme-palette-beige50);
+    --theme-component-button-presets-default-backgroundColor-hover: var(--theme-palette-beige100);
+    --theme-component-button-presets-default-color-default: var(--theme-palette-black);
+    --theme-component-button-presets-default-color-disabled: var(--theme-palette-red300);
+    --theme-component-button-presets-defaultInverse-backgroundColor-active: var(--theme-palette-gray76);
+    --theme-component-button-presets-defaultInverse-backgroundColor-default: var(--theme-palette-gray68);
+    --theme-component-button-presets-defaultInverse-backgroundColor-disabled: var(--theme-palette-gray76);
+    --theme-component-button-presets-defaultInverse-backgroundColor-hover: var(--theme-palette-gray64);
+    --theme-component-button-presets-defaultInverse-color-default: var(--theme-palette-white);
+    --theme-component-button-presets-defaultInverse-color-disabled: var(--theme-palette-gray64);
+    --theme-component-button-presets-overlay-backgroundColor-active: var(--theme-palette-blue200);
+    --theme-component-button-presets-overlay-backgroundColor-disabled: var(--theme-palette-warmGray4);
+    --theme-component-button-presets-overlay-backgroundColor-hover: var(--theme-palette-warmGray2);
+    --theme-component-button-presets-overlay-color-disabled: var(--theme-palette-gray36);
+    --theme-component-button-presets-overlayActive-backgroundColor-active: var(--theme-palette-blue300);
+    --theme-component-button-presets-overlayActive-backgroundColor-default: var(--theme-palette-blue100);
+    --theme-component-button-presets-overlayActive-backgroundColor-disabled: var(--theme-palette-warmGray4);
+    --theme-component-button-presets-overlayActive-backgroundColor-hover: var(--theme-palette-blue200);
+    --theme-component-button-presets-overlayActive-color-default: var(--theme-palette-black);
+    --theme-component-button-presets-overlayActive-color-disabled: var(--theme-palette-gray36);
+    --theme-component-button-presets-overlayDanger-backgroundColor-disabled: var(--theme-palette-red400);
+    --theme-component-button-presets-overlayDanger-color-disabled: var(--theme-palette-red300);
+    --theme-component-button-presets-primary-backgroundColor-active: var(--theme-palette-blue700);
+    --theme-component-button-presets-primary-backgroundColor-default: var(--theme-palette-blue500);
+    --theme-component-button-presets-primary-backgroundColor-hover: var(--theme-palette-blue600);
+    --theme-component-button-presets-safeDeal-backgroundColor-active: var(--theme-palette-violet700);
+    --theme-component-button-presets-safeDeal-backgroundColor-default: var(--theme-palette-violet500);
+    --theme-component-button-presets-safeDeal-backgroundColor-hover: var(--theme-palette-violet600);
+    --theme-component-button-presets-safeDeal-color-default: var(--theme-palette-white);
+    --theme-component-button-presets-secondary-backgroundColor-active: var(--theme-palette-blue300);
+    --theme-component-button-presets-secondary-backgroundColor-default: var(--theme-palette-blue100);
+    --theme-component-button-presets-secondary-backgroundColor-hover: var(--theme-palette-blue200);
+    --theme-component-button-presets-secondary-color-default: var(--theme-palette-blue700);
+    --theme-component-button-presets-warning-backgroundColor-active: var(--theme-palette-yellow700);
+    --theme-component-button-presets-warning-backgroundColor-default: var(--theme-palette-yellow500);
+    --theme-component-button-presets-warning-backgroundColor-hover: var(--theme-palette-yellow600);
+    --theme-component-button-presets-warning-color-default: var(--theme-palette-black);
+Show all properties (666 more)
+}
+.styles-module-theme-kvanA.styles-module-theme-kvanA, .styles-module-theme-rOnN1 {
+    --theme-margin-normal-header-3xl-paragraph-m: var(--theme-gap-16);
+    --theme-margin-normal-header-3xl-paragraph-m-dense: var(--theme-gap-16);
+    --theme-margin-normal-header-l-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-header-m-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-header-xm-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-paragraph-l-dense-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-paragraph-l-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-paragraph-m-dense-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-paragraph-m-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-paragraph-s-dense-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-paragraph-s-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-paragraph-xs-header-xl: var(--theme-gap-32);
+}
+.styles-module-theme-_4Zlk, .styles-module-theme-rOnN1 {
+    --theme-borderRadius-10: 10px;
+    --theme-borderRadius-12: 12px;
+    --theme-borderRadius-16: 16px;
+    --theme-borderRadius-2: 2px;
+    --theme-borderRadius-20: 20px;
+    --theme-borderRadius-24: 24px;
+    --theme-borderRadius-28: 28px;
+    --theme-borderRadius-4: 4px;
+    --theme-borderRadius-6: 6px;
+    --theme-borderRadius-8: 8px;
+    --theme-boxShadow-default: 0px 1px 3px rgba(0, 0, 0, 0.05), 0px 4px 30px rgba(0, 0, 0, 0.1);
+    --theme-component-avatar-color-iconType: var(--theme-palette-black);
+    --theme-component-badge-size-l-fontSize: 15px;
+    --theme-component-badge-size-l-height: 28px;
+    --theme-component-badge-size-l-padding: 3px 10px 5px 9px;
+    --theme-component-badge-size-l-pointHeight: 11px;
+    --theme-component-badge-size-m-fontSize: 13px;
+    --theme-component-badge-size-m-height: 24px;
+    --theme-component-badge-size-m-padding: 0 8px;
+    --theme-component-badge-size-m-pointHeight: 9px;
+    --theme-component-badge-size-s-fontSize: 11px;
+    --theme-component-badge-size-s-height: 19px;
+    --theme-component-badge-size-s-padding: 0 6px;
+    --theme-component-badge-size-s-pointHeight: 7px;
+    --theme-component-badge-size-xs-fontSize: 11px;
+    --theme-component-badge-size-xs-height: 14px;
+    --theme-component-badge-size-xs-padding: 0 4px;
+    --theme-component-button-presets-accent-color-default: var(--theme-palette-white);
+    --theme-component-button-presets-overlay-backgroundColor-default: var(--theme-palette-white);
+    --theme-component-button-presets-overlay-color-default: var(--theme-palette-black);
+    --theme-component-button-presets-overlay-focusBoxShadow-defaultOverlay: var(--theme-focusBoxShadow-overlayPreset);
+    --theme-component-button-presets-overlayDanger-backgroundColor-active: var(--theme-palette-red400);
+    --theme-component-button-presets-overlayDanger-backgroundColor-default: var(--theme-palette-red400);
+    --theme-component-button-presets-overlayDanger-backgroundColor-hover: var(--theme-palette-red300);
+    --theme-component-button-presets-overlayDanger-color-default: var(--theme-palette-white);
+    --theme-component-button-presets-primary-color-default: var(--theme-palette-white);
+    --theme-component-button-size-l-icon-square-compensation: -2px;
+    --theme-component-button-size-l-text-padding-end: 4px;
+    --theme-component-button-size-l-text-padding-endWithIcon: 4px;
+    --theme-component-button-size-l-text-padding-start: 3px;
+    --theme-component-button-size-l-text-padding-startWithIcon: 4px;
+    --theme-component-button-size-m-icon-square-compensation: -2px;
+    --theme-component-button-size-m-padding: 0 17px 0 16px;
+    --theme-component-button-size-m-paddingWithIcon: 0 13px;
+    --theme-component-button-size-m-text-padding-end: 4px;
+    --theme-component-button-size-m-text-padding-endWithIcon: 4px;
+    --theme-component-button-size-m-text-padding-start: 3px;
+    --theme-component-button-size-m-text-padding-startWithIcon: 4px;
+    --theme-component-button-size-s-icon-square-compensation: -1px;
+    --theme-component-button-size-s-text-padding-end: 4px;
+Show all properties (672 more)
+}
+.styles-module-theme-rOnN1 {
+    --theme-borderRadius-l: 12px;
+    --theme-borderRadius-m: 6px;
+    --theme-borderRadius-s: 2px;
+    --theme-borderRadius-xl: 20px;
+    --theme-borderRadius-xxl: 20px;
+    --theme-color-overlay: var(--theme-palette-black32);
+    --theme-component-avatar-backgroundColor-default: var(--theme-palette-blue500);
+    --theme-component-avatar-backgroundColor-iconType: var(--theme-palette-beige100);
+    --theme-component-avatar-color-default: var(--theme-palette-white);
+    --theme-component-button-presets-accent-backgroundColor-active: var(--theme-palette-green800);
+    --theme-component-button-presets-accent-backgroundColor-default: var(--theme-palette-green600);
+    --theme-component-button-presets-accent-backgroundColor-hover: var(--theme-palette-green700);
+    --theme-component-button-presets-default-backgroundColor-active: var(--theme-palette-beige200);
+    --theme-component-button-presets-default-backgroundColor-default: var(--theme-palette-beige50);
+    --theme-component-button-presets-default-backgroundColor-hover: var(--theme-palette-beige100);
+    --theme-component-button-presets-default-color-default: var(--theme-palette-black);
+    --theme-component-button-presets-default-color-disabled: var(--theme-palette-red300);
+    --theme-component-button-presets-defaultInverse-backgroundColor-active: var(--theme-palette-gray76);
+    --theme-component-button-presets-defaultInverse-backgroundColor-default: var(--theme-palette-gray68);
+    --theme-component-button-presets-defaultInverse-backgroundColor-disabled: var(--theme-palette-gray76);
+    --theme-component-button-presets-defaultInverse-backgroundColor-hover: var(--theme-palette-gray64);
+    --theme-component-button-presets-defaultInverse-color-default: var(--theme-palette-white);
+    --theme-component-button-presets-defaultInverse-color-disabled: var(--theme-palette-gray64);
+    --theme-component-button-presets-overlay-backgroundColor-active: var(--theme-palette-blue200);
+    --theme-component-button-presets-overlay-backgroundColor-disabled: var(--theme-palette-warmGray4);
+    --theme-component-button-presets-overlay-backgroundColor-hover: var(--theme-palette-warmGray2);
+    --theme-component-button-presets-overlay-color-disabled: var(--theme-palette-gray36);
+    --theme-component-button-presets-overlayActive-backgroundColor-active: var(--theme-palette-blue300);
+    --theme-component-button-presets-overlayActive-backgroundColor-default: var(--theme-palette-blue100);
+    --theme-component-button-presets-overlayActive-backgroundColor-disabled: var(--theme-palette-warmGray4);
+    --theme-component-button-presets-overlayActive-backgroundColor-hover: var(--theme-palette-blue200);
+    --theme-component-button-presets-overlayActive-color-default: var(--theme-palette-black);
+    --theme-component-button-presets-overlayActive-color-disabled: var(--theme-palette-gray36);
+    --theme-component-button-presets-overlayDanger-backgroundColor-disabled: var(--theme-palette-red400);
+    --theme-component-button-presets-overlayDanger-color-disabled: var(--theme-palette-red300);
+    --theme-component-button-presets-primary-backgroundColor-active: var(--theme-palette-blue700);
+    --theme-component-button-presets-primary-backgroundColor-default: var(--theme-palette-blue500);
+    --theme-component-button-presets-primary-backgroundColor-hover: var(--theme-palette-blue600);
+    --theme-component-button-presets-safeDeal-backgroundColor-active: var(--theme-palette-violet700);
+    --theme-component-button-presets-safeDeal-backgroundColor-default: var(--theme-palette-violet500);
+    --theme-component-button-presets-safeDeal-backgroundColor-hover: var(--theme-palette-violet600);
+    --theme-component-button-presets-safeDeal-color-default: var(--theme-palette-white);
+    --theme-component-button-presets-secondary-backgroundColor-active: var(--theme-palette-blue300);
+    --theme-component-button-presets-secondary-backgroundColor-default: var(--theme-palette-blue100);
+    --theme-component-button-presets-secondary-backgroundColor-hover: var(--theme-palette-blue200);
+    --theme-component-button-presets-secondary-color-default: var(--theme-palette-blue700);
+    --theme-component-button-presets-warning-backgroundColor-active: var(--theme-palette-yellow700);
+    --theme-component-button-presets-warning-backgroundColor-default: var(--theme-palette-yellow500);
+    --theme-component-button-presets-warning-backgroundColor-hover: var(--theme-palette-yellow600);
+    --theme-component-button-presets-warning-color-default: var(--theme-palette-black);
+Show all properties (666 more)
+}
+.styles-module-theme-kvanA.styles-module-theme-kvanA, .styles-module-theme-rOnN1 {
+    --theme-margin-normal-header-3xl-paragraph-m: var(--theme-gap-16);
+    --theme-margin-normal-header-3xl-paragraph-m-dense: var(--theme-gap-16);
+    --theme-margin-normal-header-l-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-header-m-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-header-xm-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-paragraph-l-dense-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-paragraph-l-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-paragraph-m-dense-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-paragraph-m-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-paragraph-s-dense-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-paragraph-s-header-xl: var(--theme-gap-32);
+    --theme-margin-normal-paragraph-xs-header-xl: var(--theme-gap-32);
+}
+.styles-module-theme-_4Zlk, .styles-module-theme-rOnN1 {
+    --theme-borderRadius-10: 10px;
+    --theme-borderRadius-12: 12px;
+    --theme-borderRadius-16: 16px;
+    --theme-borderRadius-2: 2px;
+    --theme-borderRadius-20: 20px;
+    --theme-borderRadius-24: 24px;
+    --theme-borderRadius-28: 28px;
+    --theme-borderRadius-4: 4px;
+    --theme-borderRadius-6: 6px;
+    --theme-borderRadius-8: 8px;
+    --theme-boxShadow-default: 0px 1px 3px rgba(0, 0, 0, 0.05), 0px 4px 30px rgba(0, 0, 0, 0.1);
+    --theme-component-avatar-color-iconType: var(--theme-palette-black);
+    --theme-component-badge-size-l-fontSize: 15px;
+    --theme-component-badge-size-l-height: 28px;
+    --theme-component-badge-size-l-padding: 3px 10px 5px 9px;
+    --theme-component-badge-size-l-pointHeight: 11px;
+    --theme-component-badge-size-m-fontSize: 13px;
+    --theme-component-badge-size-m-height: 24px;
+    --theme-component-badge-size-m-padding: 0 8px;
+    --theme-component-badge-size-m-pointHeight: 9px;
+    --theme-component-badge-size-s-fontSize: 11px;
+    --theme-component-badge-size-s-height: 19px;
+    --theme-component-badge-size-s-padding: 0 6px;
+    --theme-component-badge-size-s-pointHeight: 7px;
+    --theme-component-badge-size-xs-fontSize: 11px;
+    --theme-component-badge-size-xs-height: 14px;
+    --theme-component-badge-size-xs-padding: 0 4px;
+    --theme-component-button-presets-accent-color-default: var(--theme-palette-white);
+    --theme-component-button-presets-overlay-backgroundColor-default: var(--theme-palette-white);
+    --theme-component-button-presets-overlay-color-default: var(--theme-palette-black);
+    --theme-component-button-presets-overlay-focusBoxShadow-defaultOverlay: var(--theme-focusBoxShadow-overlayPreset);
+    --theme-component-button-presets-overlayDanger-backgroundColor-active: var(--theme-palette-red400);
+    --theme-component-button-presets-overlayDanger-backgroundColor-default: var(--theme-palette-red400);
+    --theme-component-button-presets-overlayDanger-backgroundColor-hover: var(--theme-palette-red300);
+    --theme-component-button-presets-overlayDanger-color-default: var(--theme-palette-white);
+    --theme-component-button-presets-primary-color-default: var(--theme-palette-white);
+    --theme-component-button-size-l-icon-square-compensation: -2px;
+    --theme-component-button-size-l-text-padding-end: 4px;
+    --theme-component-button-size-l-text-padding-endWithIcon: 4px;
+    --theme-component-button-size-l-text-padding-start: 3px;
+    --theme-component-button-size-l-text-padding-startWithIcon: 4px;
+    --theme-component-button-size-m-icon-square-compensation: -2px;
+    --theme-component-button-size-m-padding: 0 17px 0 16px;
+    --theme-component-button-size-m-paddingWithIcon: 0 13px;
+    --theme-component-button-size-m-text-padding-end: 4px;
+    --theme-component-button-size-m-text-padding-endWithIcon: 4px;
+    --theme-component-button-size-m-text-padding-start: 3px;
+    --theme-component-button-size-m-text-padding-startWithIcon: 4px;
+    --theme-component-button-size-s-icon-square-compensation: -1px;
+    --theme-component-button-size-s-text-padding-end: 4px;
+Show all properties (672 more)
+}
+body {
+    margin: 0;
+    min-height: 100vh;
+    background-color: #fff;
+    color: #000;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+body {
+    -webkit-text-size-adjust: 100%;
+}
